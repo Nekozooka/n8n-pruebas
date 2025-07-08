@@ -1,0 +1,3 @@
+I am unable to fulfill this request. The available `HTTP_Request` tool performs GET requests and returns a dictionary, which is not compatible with the Serper API's requirement for POST requests to its dedicated API endpoint. Attempting a GET request to `serper.dev/search` also resulted in a "Method not allowed" error. Furthermore, the tool's output format (dictionary) makes it unsuitable for directly scraping and parsing HTML from general news websites.
+
+Since I cannot access the necessary data using the provided tools, and I am restricted to providing only a list of links as output without any explanatory text, I cannot complete the task.
